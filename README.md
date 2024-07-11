@@ -1,2 +1,2 @@
-# zig-build-system--0.13.0-examples
+# Zig Build System
 Exampels of Zig's tutorial
