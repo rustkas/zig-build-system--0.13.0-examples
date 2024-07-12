@@ -19,4 +19,6 @@ Exampels of Zig's tutorial
   - [Generating Zig Source Code](projects/pr13)
   - [Dealing With One or More Generated Files](projects/pr14)
   - [Mutating Source Files in Place](projects/pr15)
+  - Handy Examples
+  - [Build for multiple targets to make a release](projects/pr16)
 
